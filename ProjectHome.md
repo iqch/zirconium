@@ -1,0 +1,2 @@
+[SESI Houdini](http://www.sidefx.com) Dynamic subsystem using Bullet Engine for simulation.
+Phenomenon related framework for dynamic simulation with SESI Houdini base on [Bullet engine](http://bulletphysics.org).
